@@ -1,11 +1,31 @@
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color :red;
+    font-size : 35px;
+}
 h1{
-    color:blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px ;
 }
-
-p{
-    color:orange;
-}
-span{
-    font-size: 40px;
+h4{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 40 px;
     color :red;
 }
+.div2{
+
+    height: 175px;
+    width: 5px;
+    background-color: red;
+    position :absolute ; top: 310px; left: 100px;
+}
+h6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color :black;
+    font-size : 15px;
+}
+.fig1{
+    position :absolute ;
+    top: 250px; left: 650px;
+}
+
